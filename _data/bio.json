@@ -2,7 +2,7 @@
   "basics": {
     "name": "Andrew James",
     "label": "",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "../images/850018.png",
     "email": "aandrew444@gmail.com",
     "website": "https://andrewcjp.github.io/",
     "summary": "",
@@ -10,7 +10,7 @@
       {
         "network": "github",
         "username": "Andrewcjp",
-        "url": "http://https://github.com/Andrewcjp"
+        "url": "https://github.com/Andrewcjp"
       },
       {
         "network": "linkedin",
