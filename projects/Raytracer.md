@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/tinyrayrender.png
+image: images/tinyrayrender.PNG
 title: Tiny Ray Tracer
 permalink: projects/tinyray
 # All dates must be YYYY-MM-DD format!
@@ -13,7 +13,7 @@ summary: A CPU Raytracer
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/tinyrayrender.png">
+  <img class="ui image" src="../images/tinyrayrender.PNG">
 </div>
 
 A CPU raytracer built as part of my Graphics I module.
