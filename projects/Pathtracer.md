@@ -12,7 +12,7 @@ labels:
 summary: A CPU Path tracer
 ---
 
-<div class="ui small rounded images">
+<div class="ui images">
   <img class="ui image" src="../images/512_path.png">
   <img class="ui image" src="../images/720p_Path.png">
 </div>

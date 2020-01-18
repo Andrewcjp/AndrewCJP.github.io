@@ -12,7 +12,7 @@ labels:
 summary: A CPU Raytracer
 ---
 
-<div class="ui small rounded images">
+<div class="ui images">
   <img class="ui image" src="../images/tinyrayrender_.png">
 </div>
 
