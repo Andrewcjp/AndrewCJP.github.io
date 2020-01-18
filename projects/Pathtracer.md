@@ -12,16 +12,21 @@ labels:
 summary: A CPU Path tracer
 ---
 
-<div class="ui images">
-  <img class="ui image" src="../images/512_path.png">
-  <img class="ui image" src="../images/720p_Path.png">
+<div class="ui small images">
+  <img class="ui image" src="../images/512_path.png">  
+   <img class="ui image" src="../images/512_BI_Radial_2000.png">  
 </div>
-
+<div class="ui images">
+<img class="ui image" src="../images/720p_Path.png">
+</div>
 A CPU pathtracer built as part of my Graphics II module.
 
-Featrues:
+Features:
+
 Intersection of: Spheres, boxes, triangle meshes.
+
 Bidriectional Path tracing.
+
 Area Lights
 
 

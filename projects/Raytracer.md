@@ -18,12 +18,18 @@ summary: A CPU Raytracer
 
 A CPU raytracer built as part of my Graphics I module.
 
-Featrues:
+Features:
+
 Intersection of: Spheres, boxes, triangle meshes.
+
 Reflections
+
 Physically correct Refractions.
+
 Soft Shadows
+
 Texture & normal mapping.
+
 Area Lights
 
 
