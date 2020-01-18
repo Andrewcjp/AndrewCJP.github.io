@@ -15,10 +15,10 @@
       {
         "network": "linkedin",
         "username": "Andrew james",
-        "url": "http://linkedin.com/in/changeme"
+        "url": "https://www.linkedin.com/in/andrew-james-326196129/"
       },
       {
-        "network": "dev blog",
+        "network": "wordpress",
         "url": "https://andrewcjp.wordpress.com/"
       }
     ]
@@ -54,11 +54,11 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "University of Derby",
+      "area": "Compute Games Programming",
+      "studyType": "BSc",
+      "startDate": "2015",
+      "endDate": "2019",
       "gpa": "",
       "courses": [
       ]
@@ -66,16 +66,16 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Sumo Digital",
+      "position": "Placment Programmer",
+      "startDate": "Jun 2017",
+      "endDate": "Aug 2018",
+    },
+	{
+      "company": "Sumo Digital",
+      "position": "Programmer",
+      "startDate": "Aug 2019",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
     }
   ],
   "references": [
