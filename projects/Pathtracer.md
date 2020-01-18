@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/512_S2_1000.PNG
+image: images/512_path.png
 title: Tiny Path Tracer
 permalink: projects/tinyray
 # All dates must be YYYY-MM-DD format!
@@ -13,8 +13,8 @@ summary: A CPU Path tracer
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/512_S2_1000.PNG">
-  <img class="ui image" src="../images/720p_S2_10_.PNG">
+  <img class="ui image" src="../images/512_path.png">
+  <img class="ui image" src="../images/720p_Path.png">
 </div>
 
 A CPU raytracer built as part of my Graphics II module.
