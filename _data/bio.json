@@ -35,7 +35,7 @@
       ]
     },
     {
-      "name": "Multi-GPU rendering",
+      "name": "Multi-GPU rendering"
     },
 	{	
 	"name": "Engine Programming",
@@ -80,13 +80,13 @@
       "company": "Sumo Digital",
       "position": "Placment Programmer",
       "startDate": "Jun 2017",
-      "endDate": "Aug 2018",
+      "endDate": "Aug 2018"
     },
 	{
       "company": "Sumo Digital",
       "position": "Programmer",
       "startDate": "Aug 2019",
-      "endDate": "Present",
+      "endDate": "Present"
     }
   ],
   "references": [
