@@ -19,6 +19,7 @@
       },
       {
         "network": "wordpress",
+		 "username": "Andrewcjp",
         "url": "https://andrewcjp.wordpress.com/"
       }
     ]
@@ -27,16 +28,23 @@
     {
       "name": "Graphics Programming",
       "keywords": [
-        "Graphics",
-        "Engine Porgramming"
+        "DirectX 11",
+		"DirectX 12",
+		"Vulkan",
+		"GNM/GNMX(Sony)"
       ]
     },
     {
       "name": "Multi-GPU rendering",
+    },
+	{	
+	"name": "Engine Programming",
       "keywords": [
-	  "Multi-GPU"
+        "Threading",
+		"Memory managment",
+		"Optimisation"
       ]
-    }
+	}
   ],
   "skills": [
     {
@@ -45,10 +53,13 @@
       "keywords": [
         "C",
         "C++",
+		"C#",
         "Java",
         "Assembly",
 		"HLSL",
-		"GLSL"
+		"GLSL",
+		"PSSL",
+		"ASM (x86 & ARM)"
       ]
     }   
   ],
