@@ -23,13 +23,11 @@ A CPU pathtracer built as part of my Graphics II module.
 
 Features:
 
-Intersection of: Spheres, boxes, triangle meshes.
-
-Bidriectional Path tracing.
-
-Area Lights
+*Intersection of: Spheres, boxes, triangle meshes.
+*Bidriectional Path tracing.
+*Area Lights
 
 
-
+You can learn more [Here](https://github.com/Andrewcjp/PathTracer).
 
 
