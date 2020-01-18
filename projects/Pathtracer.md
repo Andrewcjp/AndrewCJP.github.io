@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/512_path.png
 title: Tiny Path Tracer
-permalink: projects/tinyray
+permalink: projects/tinypath
 # All dates must be YYYY-MM-DD format!
 date: 2017
 labels:
