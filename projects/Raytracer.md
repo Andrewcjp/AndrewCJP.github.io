@@ -20,12 +20,12 @@ A CPU raytracer built as part of my Graphics I module.
 
 Features:
 
-*Intersection of: Spheres, boxes, triangle meshes.
-*Reflections
-*Physically correct Refractions.
-*Soft Shadows
-*Texture & normal mapping.
-*Area Lights
+* Intersection of: Spheres, boxes, triangle meshes.
+* Reflections
+* Physically correct Refractions.
+* Soft Shadows
+* Texture & normal mapping.
+* Area Lights
 
 
 You can learn more [Here](https://github.com/Andrewcjp/RayTracer).
