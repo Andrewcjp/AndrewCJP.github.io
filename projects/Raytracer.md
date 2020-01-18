@@ -5,7 +5,7 @@ image: images/tinyrayrender_.png
 title: Tiny Ray Tracer
 permalink: projects/tinyray
 # All dates must be YYYY-MM-DD format!
-date: 2016
+date: 2016-09-01
 labels:
   - Ray Tracing
   - C++

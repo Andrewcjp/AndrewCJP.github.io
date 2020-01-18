@@ -5,7 +5,7 @@ image: images/512_path.png
 title: Tiny Path Tracer
 permalink: projects/tinypath
 # All dates must be YYYY-MM-DD format!
-date: 2017
+date: 2017-01-01
 labels:
   - Path Tracing
   - C++
@@ -17,7 +17,7 @@ summary: A CPU Path tracer
   <img class="ui image" src="../images/720p_Path.png">
 </div>
 
-A CPU raytracer built as part of my Graphics II module.
+A CPU pathtracer built as part of my Graphics II module.
 
 Featrues:
 Intersection of: Spheres, boxes, triangle meshes.
