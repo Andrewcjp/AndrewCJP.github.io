@@ -9,5 +9,5 @@ labels:
   - Rendering
 ---
 
-<iframe src="Final_MGPU.pdf" width="200%" height="1000px">
+<iframe src="Final_MGPU.pdf" width="100%" height="1000px">
 </iframe>
